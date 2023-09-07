@@ -5,3 +5,4 @@
 Belajar dasar pemrograman JavaScript
   *Belajar pengertian, syntax, dan aplikasinya
   *Belajar membuat web sederhana
+...
