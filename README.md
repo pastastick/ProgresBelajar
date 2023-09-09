@@ -11,3 +11,8 @@ Belajar dasar pemrograman Python
   * Belajar data tipe, memori & ariabel, logical operation, for loops, if & else
   * Belajar List, slicing, indexing
 
+**1 September 2023**  
+Menyelesaikan Kelas Intermediate Python  
+  + Belajar OOP
+  + Belajar membuat, membaca, menulis file
+
