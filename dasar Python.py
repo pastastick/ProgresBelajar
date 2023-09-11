@@ -24,5 +24,10 @@ angka = [6, 10, 18, 29, 33]
 rata_rata = hitung_mean(angka)
 print(f"Mean dari {angka} adalah {rata_rata}")
 
+# Membuat list
+"""
+  membuat list berisi angka dari 1 sampai 50
+"""
+deret_angka = list(range(1:50))
 
 
