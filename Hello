@@ -1,5 +1,8 @@
 ```
-print("Hello World")
+if y===0:
+  print("Hello World")
+else:
+  print("Hallo")
 ```
 ```
 print("Hello")
